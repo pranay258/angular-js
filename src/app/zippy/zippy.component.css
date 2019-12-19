@@ -1,0 +1,8 @@
+.zippy-heading {
+    font-weight: bold;
+    padding: 20px;
+    cursor: pointer;
+}
+.zippy-body {
+    padding: 20px;
+}
